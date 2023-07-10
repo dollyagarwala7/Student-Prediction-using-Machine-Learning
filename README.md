@@ -1,2 +1,2 @@
-# Student-Prediction-using-Machine-Learning
-DBMS project on Student Prediction using ML
+# Student Prediction Machine Learning
+ This is a project I made for a project based on Machine Learning.
